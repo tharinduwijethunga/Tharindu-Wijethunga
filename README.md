@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tharindu Wijethunga</h1>
-<h3 align="center">Application Developer| Microsoft Certified Power Platform Developer | I'm passionate about software engineering | Interested in AI-driven development and Vibe coding solutions</h3>
+<h3 align="center">Application Developer | Microsoft Certified Power Platform Developer | I'm passionate about software engineering | Interested in AI-driven development and Vibe coding solutions</h3>
 
 # 💫 About Me:
 With over six years of experience in the IT industry, including more than two years specialising in both custom development and Microsoft technologies. I bring strong expertise in the Microsoft Power Platform (Power Apps, Power Automate, and Power BI), as well as hands-on experience in Angular and .NET Core application development. I am also passionate about AI-driven development and Vibe coding solutions.
